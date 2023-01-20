@@ -1,0 +1,54 @@
+body {
+  background-image: url("/media/background2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+body {
+  font-family: 'Rajdhani', Arial;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  width:100%;
+  height: 60px;
+  color:rgb(124, 124, 124)
+}
+
+.homebuttons {
+  text-align: center;
+  color: black;
+  background-color: rgb(212, 212, 212);
+  border: 4px solid rgb(42, 117, 214);
+  border-radius: 3px;
+  padding: 2px;
+  width: 200px;
+  font-family: 'Rajdhani', Arial;
+  margin: auto;
+  font-size: 20px;
+  display: left;  
+  justify-content: center;  
+  align-items: center;
+  text-decoration: none;
+}
+
+table {
+  display: flex;  
+  justify-content: center;  
+  align-items: center;
+  text-decoration: none;
+  border: 0px solid white;
+  margin-left: 40%;
+  margin-right: 40%;
+  text-align: center;
+  font-size: xx-large;
+}
